@@ -1,0 +1,4 @@
+1. Откройте терминал
+2. Введите "pip install requests, openpyxl, selenium, webdriver-manager" без кавычек.
+3. Поместите Excel файл в папку вместе с main.py.
+4. Запустите файл main.py.
